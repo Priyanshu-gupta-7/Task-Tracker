@@ -3,7 +3,7 @@
     {
       "text": "meet friend ",
       "day": "7pm 8th feb",
-      "reminder": false,
+      "reminder": true,
       "id": 5
     },
     {
